@@ -16,7 +16,7 @@ I'm a backend-focused developer. I enjoy creating things from scratch, designing
 - A real-time multiplayer chess game  
 - A tool for making backend development easier
 
-### Currently learning
+### 🎯 Currently learning
 - Node.js Internals
 - Abstract Syntaxt Trees
 - Golang
