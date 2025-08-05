@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Isbat Bin Hossain
 
-I'm a backend-focused developer with a passion for building robust systems. I enjoy designing scalable web architectures, solving algorithmic problems, and exploring how things work under the hood. I also love reading books and taking long walks.
+I'm a backend-focused developer. I enjoy creating things from scratch, designing scalable web architectures, solving algorithmic problems, and exploring how things work under the hood. I also love reading books and taking long walks.
 
 ### 💻 Tech Stack
 
@@ -14,7 +14,12 @@ I'm a backend-focused developer with a passion for building robust systems. I en
 ### ⚙️ Projects I'm Building
 
 - A real-time multiplayer chess game  
-- A modular CMS for bookstore e-commerce
+- A tool for making backend development easier
+
+### Currently learning
+- Node.js Internals
+- Abstract Syntaxt Trees
+- Golang
 
 ### 🧠 Interests
 
