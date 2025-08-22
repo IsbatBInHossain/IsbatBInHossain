@@ -13,7 +13,7 @@ I'm a backend-focused developer. I enjoy creating things from scratch, designing
 
 ### ⚙️ Projects I'm Building
 
-- A real-time multiplayer chess game  
+- A headless-cms for bookstores with microservices
 - A tool for making backend development easier
 
 ### 🎯 Currently learning
