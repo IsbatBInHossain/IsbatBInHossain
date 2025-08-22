@@ -13,8 +13,8 @@ I'm a backend-focused developer. I enjoy creating things from scratch, designing
 
 ### ⚙️ Projects I'm Building
 
-- A headless-cms for bookstores with microservices [GitHub](https://github.com/IsbatBInHossain/bookstore-cms)
-- A tool for making backend development easier [GitHub](https://github.com/IsbatBInHossain/create-x-lite)
+- A headless-cms for bookstores with microservices [(GitHub Link)](https://github.com/IsbatBInHossain/bookstore-cms)
+- A tool for making backend development easier [(GitHub Link)](https://github.com/IsbatBInHossain/create-x-lite)
 
 ### 🎯 Currently learning
 - Node.js Internals
