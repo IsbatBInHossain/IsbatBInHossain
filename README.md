@@ -2,6 +2,8 @@
 
 I'm a backend-focused developer. I enjoy creating things from scratch, designing scalable web architectures, solving algorithmic problems, and exploring how things work under the hood. I also love reading books and taking long walks.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=IsbatBInHossain)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 💻 Tech Stack
 
 - **Languages:** JavaScript, Python, C, C++, Java, SQL  
